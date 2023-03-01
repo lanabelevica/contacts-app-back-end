@@ -7,7 +7,7 @@ To develop this app we have used the following programming elements:
 - json module
 - file input/output(write/read)
 
-```json
+```py
 def AddContact():
     name = input("Enter name: ")
     surname = input("Enter surname: ")
