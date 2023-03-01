@@ -7,7 +7,7 @@ To develop this app we have used the following programming elements:
 - json module
 - file input/output(write/read)
 
-'''py
+```json
 def AddContact():
     name = input("Enter name: ")
     surname = input("Enter surname: ")
@@ -22,4 +22,4 @@ def AddContact():
     }
 
     contacts.append(contact)
-    '''
+    ```
